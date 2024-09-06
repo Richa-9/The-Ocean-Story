@@ -29,4 +29,6 @@ Windows:
 git clone https://github.com/Rich-9/The-Ocean-Story.git
 ```
 
+### License
 
+[MIT](https://choosealicense.com/licenses/mit/)

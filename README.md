@@ -17,4 +17,16 @@
 
 To run **The Ocean Story** locally, run this command on your git bash:
 
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/Richa-9/The-Ocean-Story.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/Rich-9/The-Ocean-Story.git
+```
+
 

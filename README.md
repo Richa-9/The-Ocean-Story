@@ -11,6 +11,10 @@
 
 </div>
 
+<br />
 
+### Run Locally
+
+To run **The Ocean Story** locally, run this command on your git bash:
 
 
